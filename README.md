@@ -23,6 +23,6 @@ For the project I used Python 2 string formatting syntax which uses '%' while th
 
 ## Resource
 
-[Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)
-[Python 2 - String formatting](https://www.learnpython.org/en/String_Formatting)
-[Naming Conventions](https://peps.python.org/pep-0008/#prescriptive-naming-conventions)
+- [Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)
+- [Python 2 - String formatting](https://www.learnpython.org/en/String_Formatting)
+- [Naming Conventions](https://peps.python.org/pep-0008/#prescriptive-naming-conventions)
