@@ -19,10 +19,10 @@ py script.py
 
 ## Notes
 
-For the project I used Python 2 string formatting syntax which uses '%' while the current Python 3 uses curly brackets and (format() method)[https://www.w3schools.com/python/ref_string_format.asp] to combine strings with variables
+For the project I used Python 2 string formatting syntax which uses '%' while the current Python 3 uses curly brackets and [format() method](https://www.w3schools.com/python/ref_string_format.asp) to combine strings with variables
 
 ## Resource
 
-(Mad Libs)[https://en.wikipedia.org/wiki/Mad_Libs]
-(Python 2 - String formatting)[https://www.learnpython.org/en/String_Formatting]
-(Naming Conventions)[https://peps.python.org/pep-0008/#prescriptive-naming-conventions]
+[Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)
+[Python 2 - String formatting](https://www.learnpython.org/en/String_Formatting)
+[Naming Conventions](https://peps.python.org/pep-0008/#prescriptive-naming-conventions)
